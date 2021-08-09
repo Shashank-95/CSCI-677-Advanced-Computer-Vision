@@ -22,10 +22,9 @@
   * Improvising the classification accuracy of LeNet-5 on CIFAR-10 with minimum number of hyperparameters..
   
   
-## Homework-5
+## Semantic Segmentation
 
-* CIFAR-10 Competition
-  * Improvising the classification accuracy of LeNet-5 on CIFAR-10 with minimum number of hyperparameters.
+* FCN-16 and FCN-32
 
 ## Homework-6
 
